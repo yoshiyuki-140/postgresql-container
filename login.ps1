@@ -1,1 +1,1 @@
-docker exec -it postgresql-container-db-1 psql -U postgres
+docker exec -it postgres-container-for-study psql -U testuser -d testdb
